@@ -1,0 +1,19 @@
+
+{
+  "short_name": "مستر داود",
+  "name": "منصة مستر داود - مساعد المعلم الذكي",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3429/3429156.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4338ca",
+  "background_color": "#ffffff",
+  "dir": "rtl",
+  "lang": "ar"
+}
